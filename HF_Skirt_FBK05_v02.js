@@ -13,7 +13,7 @@
         "colorDiffuse":[0.64,0.64,0.64],
         "blending":"NormalBlending",
         "DbgColor":15658734,
-        "shading":"phong",
+        "shading":"standard",
         "wireframe":false,
         "visible":true,
         "specularCoef":50,
